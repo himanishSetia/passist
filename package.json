@@ -1,0 +1,27 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "Demo Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "hey bot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MissionMarsFourthHorizon/operation-max.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Himanish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MissionMarsFourthHorizon/operation-max/issues"
+  },
+  "homepage": "https://github.com/MissionMarsFourthHorizon/operation-max#readme",
+  "dependencies": {
+    "botbuilder": "^3.10.2",
+    "dotenv": "^4.0.0",
+    "restify": "^6.0.1"
+  }
+}
